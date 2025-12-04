@@ -7,7 +7,7 @@ I am an Electrical Engineering major at CSUF and I plan on graduating in 2029.
 
 * Lab 3 Part 2
 
-    Lab 3 in general was my favorite lab to do because of how interesting it was to test each of the calculators. The date difference calculator was very fun to use because I was able to put my own birthday to see how many days I’ve been alive. It was also a very tedious lab to do because we had to make sure we typed out the correct formula which was very long. In the end I learned about writing function definitions and had a lot of fun doing it. 
+    Lab 3 in general was the most fun lab to do because of how interesting it was to test each of the calculators. The date difference calculator was very fun to use because I was able to put my own birthday to see how many days I’ve been alive. It was also a very tedious lab to do because we had to make sure we typed out the correct formula which was very long. In the end I learned about writing function definitions and had a lot of fun doing it. 
 
 * Lab 4 Part 2
 
@@ -15,4 +15,4 @@ I am an Electrical Engineering major at CSUF and I plan on graduating in 2029.
 
 * Lab 6 Part 2
 
-    This was a fun lab to do because I was already familiar with the game Blackjack. It was pretty fun to code as well because of how many functions we had to complete and all the if statements we used to complete them. This lab also was great practice for validating command line arguments, where if there was any argument that was more or less than 2, we would print out an error message. 
+    This was an interesting lab to do because I was already familiar with the game Blackjack. It was pretty fun to code as well because of how many functions we had to complete and all the if statements we used to complete them. This lab also was great practice for validating command line arguments, where if there was any argument that was more or less than 2, we would print out an error message. 
