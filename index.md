@@ -1,7 +1,11 @@
 
 # Alexia Esquivel's Portfolio
 
-I am an Electrical Engineering major at CSUF and I plan on graduating in 2029.
+This is my home page! I am an Electrical Engineering major at CSUF and I plan on graduating in 2029.
+
+# Computer Science Projects
+
+My GitHub page is https://github.com/al7xia 
 
 ## Favorite CPSC 120L Labs
 
