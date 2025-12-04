@@ -5,7 +5,7 @@ This is my home page! I am an Electrical Engineering major at CSUF and I plan on
 
 # Computer Science Projects
 
-My GitHub page is https://github.com/al7xia 
+My GitHub page is https://github.com/al7xia.
 
 ## Favorite CPSC 120L Labs
 
