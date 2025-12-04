@@ -15,4 +15,4 @@ I am an Electrical Engineering major at CSUF and I plan on graduating in 2029.
 
 * Lab 6 Part 2
 
-    This was an interesting lab to do because I was already familiar with the game Blackjack. It was pretty fun to code as well because of how many functions we had to complete and all the if statements we used to complete them. This lab also was great practice for validating command line arguments, where if there was any argument that was greater than or less than 2, we would print out an error message. 
+    This was an interesting lab to do because I was already familiar with the game Blackjack. It was pretty fun to code as well because of how many functions we had to complete and all the if statements we used to complete them. This lab also was great practice for validating command line arguments, where if there was any argument greater than or less than 2, we would print out an error message. 
