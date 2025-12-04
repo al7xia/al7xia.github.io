@@ -7,7 +7,7 @@ I am an Electrical Engineering major at CSUF and I plan on graduating in 2029.
 
 * Lab 3 Part 2
 
-    Lab 3 in general was my favorite lab to do because of how interesting it was to test each of the calculators. The date difference calculator was very fun to use because I was able to put my own birthday to see how many days I’ve been alive. It was also a very tedious lab to do because we had to make sure we typed out the correct formula. In the end I learned about writing function definitions and had a lot of fun doing it. 
+    Lab 3 in general was my favorite lab to do because of how interesting it was to test each of the calculators. The date difference calculator was very fun to use because I was able to put my own birthday to see how many days I’ve been alive. It was also a very tedious lab to do because we had to make sure we typed out the correct formula which was very long. In the end I learned about writing function definitions and had a lot of fun doing it. 
 
 * Lab 4 Part 2
 
